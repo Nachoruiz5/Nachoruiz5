@@ -4,6 +4,7 @@
 <p>Hi! I'm a <strong>Software Development Higher Technician</strong> 🎓 with a passion for technology and web development. I specialize in <strong>Fullstack</strong> technologies and love building complete and scalable solutions.</p>
 
 <h3>Technologies I work with:</h3>
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 <ul>
   <li>Java ☕ (Spring Framework)</li>
   <li>HTML5 & CSS3 🎨</li>
